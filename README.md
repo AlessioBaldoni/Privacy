@@ -13,11 +13,11 @@ comment:  Questo lavoro servirà  a introdurre l'argomento della privacy, il tr
 
 -->
 
-# PRIVACY, DATI PERSONALI E GDPR
+## PRIVACY, DATI PERSONALI E GDPR
 
-Lavoro di ....
+Lavoro di Alessio Baldoni, Alessandro Burattini, Matteo Ciccarini
 
-Visualizza su [Liascript]()
+Visualizza su [Liascript](https://liascript.github.io/course/?https://raw.githubusercontent.com/AlessioBaldoni/Privacy/main/README.md)
 
 
 ## Scopo
@@ -50,11 +50,11 @@ Il regolamento protegge i dati personali a prescindere dalla tecnologia utilizza
 
 La privacy è il diritto fondamentale di un individuo, che controlla e tutela le sue informazioni personali. Questo include anche il controllo su chi può accedere a tali informazioni, come vengono utilizzate e condivise. In sintesi, la privacy protegge la nostra sfera personale da intrusioni indesiderate.
 
-# *Cos'è il GDPR ?*
+## *Cos'è il GDPR ?*
 
 Il General Data Protection Regulation (in sigla GDPR) è un regolamento dell'Unione Europea che protegge la privacy e i dati personali dei cittadini dell'UE. È entrato in vigore nel 2018 e stabilisce regole rigide sul trattamento dei dati personali da parte delle organizzazioni, inclusi requisiti per la raccolta, l'elaborazione, la conservazione e la trasmissione dei dati. In poche parole, il GDPR mira a garantire che le persone abbiano maggiore controllo sui propri dati personali e che le aziende rispettino le norme per quanto riguarda la privacy.
 
-# Quiz a risposta multipla
+## Quiz a risposta multipla
 - DI COSA ABBIAMO PARLATO?
 
 [[ ]] Privacy e GDPR
